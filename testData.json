@@ -1,0 +1,33 @@
+{
+    
+    "loginCredentials":
+    {
+        "url":"https://cms.hudinielevate-stage.io/",
+        "username":"pavithra.br@hudini.io",
+        "password":"Testing@123"
+    }, 
+    "createPage":
+    {
+        "pageName":"testPage",
+         "createPageConfirmMsg":"Page created successfully"
+    },
+    "AddComponents":
+    {
+        "H2Title": "Our Hotels",
+        "H3Title": "Hudini Hotels & Resorts",
+        "ExternalLink": "https://www.youtube.com",
+        "H3Title2": "Hudini Demo",
+        "VideoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+        "ExternalLink2": "https://www.youtube.com",
+        "CTATitle": "Explore",
+        "SavePageConfirmMsg": "Changes saved"
+    },
+    "UpdateComponentDetails":
+    {
+        "H2Title": "Hudini",
+        "CTATitle": "Click Here",
+        "SaveAndPublishConfirmMsg":"Page published successfully"
+    }
+
+}    
+   
